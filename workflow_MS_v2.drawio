@@ -1,0 +1,563 @@
+<mxfile host="app.diagrams.net" modified="2023-11-27T16:28:04.238Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0" etag="m2jlNRLLt9CW2NZb1-sT" version="22.1.4" type="device">
+  <diagram name="Page-1" id="rrwfycTTl3FOUkb1iYms">
+    <mxGraphModel dx="1867" dy="1836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RqcSnPFNKj7BQ7TesFbO-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="RqcSnPFNKj7BQ7TesFbO-1" target="RqcSnPFNKj7BQ7TesFbO-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RqcSnPFNKj7BQ7TesFbO-1" value="La CGD a besoin d&#39;un moyen" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-645" y="-980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RqcSnPFNKj7BQ7TesFbO-60" value="" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-565" y="-410" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RqcSnPFNKj7BQ7TesFbO-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="RqcSnPFNKj7BQ7TesFbO-2" target="RqcSnPFNKj7BQ7TesFbO-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RqcSnPFNKj7BQ7TesFbO-2" value="&amp;nbsp;Si demande validée, le GGD saisit (notifie) toutes les autres CGD de son ressort disposant du moyen" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-675" y="-770" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RqcSnPFNKj7BQ7TesFbO-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;labelBackgroundColor=none;fontColor=default;" parent="1" source="RqcSnPFNKj7BQ7TesFbO-7" target="RqcSnPFNKj7BQ7TesFbO-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RqcSnPFNKj7BQ7TesFbO-7" value="CZO : contacte toutes les&amp;nbsp; compagnies des autres groupements de son ressort disposant du moyen&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-687.5" y="-620" width="175" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="RqcSnPFNKj7BQ7TesFbO-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;labelBackgroundColor=none;fontColor=default;" parent="1" source="RqcSnPFNKj7BQ7TesFbO-8" target="RqcSnPFNKj7BQ7TesFbO-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RqcSnPFNKj7BQ7TesFbO-53" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp;x (&lt;/font&gt;&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&amp;nbsp;Nbre CZO - 1 )&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;labelBackgroundColor=none;" parent="RqcSnPFNKj7BQ7TesFbO-52" vertex="1" connectable="0">
+          <mxGeometry x="0.0019" y="1" relative="1" as="geometry">
+            <mxPoint x="-46" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RqcSnPFNKj7BQ7TesFbO-8" value="Le CNO saisit les autres CZO disposant du moyen" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-660" y="-400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RqcSnPFNKj7BQ7TesFbO-11" value="Fin du traitement de la demande pour un moyen" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-125" y="-980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RqcSnPFNKj7BQ7TesFbO-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="RqcSnPFNKj7BQ7TesFbO-16" target="RqcSnPFNKj7BQ7TesFbO-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RqcSnPFNKj7BQ7TesFbO-28" value="Oui" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="RqcSnPFNKj7BQ7TesFbO-27" vertex="1" connectable="0">
+          <mxGeometry x="-0.4727" y="1" relative="1" as="geometry">
+            <mxPoint x="3" y="11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RqcSnPFNKj7BQ7TesFbO-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="RqcSnPFNKj7BQ7TesFbO-16" target="RqcSnPFNKj7BQ7TesFbO-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RqcSnPFNKj7BQ7TesFbO-30" value="Non : notification au CZO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="RqcSnPFNKj7BQ7TesFbO-29" vertex="1" connectable="0">
+          <mxGeometry x="0.1097" relative="1" as="geometry">
+            <mxPoint x="3" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RqcSnPFNKj7BQ7TesFbO-16" value="Au moins une CGD du groupement satisfait le besoin&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-375" y="-760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RqcSnPFNKj7BQ7TesFbO-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="RqcSnPFNKj7BQ7TesFbO-19" target="RqcSnPFNKj7BQ7TesFbO-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RqcSnPFNKj7BQ7TesFbO-22" value="Saisie de la demande de moyen et notification &lt;br&gt;au GGD" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="RqcSnPFNKj7BQ7TesFbO-21" vertex="1" connectable="0">
+          <mxGeometry x="0.1152" y="2" relative="1" as="geometry">
+            <mxPoint x="25" y="-17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RqcSnPFNKj7BQ7TesFbO-35" value="Non" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;labelBackgroundColor=none;" parent="RqcSnPFNKj7BQ7TesFbO-21" vertex="1" connectable="0">
+          <mxGeometry x="-0.9038" relative="1" as="geometry">
+            <mxPoint x="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RqcSnPFNKj7BQ7TesFbO-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="RqcSnPFNKj7BQ7TesFbO-19" target="RqcSnPFNKj7BQ7TesFbO-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-205" y="-950" />
+              <mxPoint x="-205" y="-950" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RqcSnPFNKj7BQ7TesFbO-25" value="Oui" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="RqcSnPFNKj7BQ7TesFbO-23" vertex="1" connectable="0">
+          <mxGeometry x="-0.1647" y="1" relative="1" as="geometry">
+            <mxPoint x="9" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RqcSnPFNKj7BQ7TesFbO-19" value="Dispose localement du moyen ?&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-415" y="-980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RqcSnPFNKj7BQ7TesFbO-32" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;ARBITRAGE sur quel moyen sera engagé si plusieurs dispo&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-215" y="-830" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="RqcSnPFNKj7BQ7TesFbO-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=10;labelBackgroundColor=none;fontColor=default;" parent="1" source="RqcSnPFNKj7BQ7TesFbO-36" target="RqcSnPFNKj7BQ7TesFbO-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RqcSnPFNKj7BQ7TesFbO-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;labelBackgroundColor=none;fontColor=default;" parent="1" source="RqcSnPFNKj7BQ7TesFbO-36" target="RqcSnPFNKj7BQ7TesFbO-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RqcSnPFNKj7BQ7TesFbO-46" value="Non : notification au CNO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;labelBackgroundColor=none;" parent="RqcSnPFNKj7BQ7TesFbO-45" vertex="1" connectable="0">
+          <mxGeometry x="0.0845" y="1" relative="1" as="geometry">
+            <mxPoint x="13" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RqcSnPFNKj7BQ7TesFbO-36" value="Au moins une CGD de la zone satisfait le besoin&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-381" y="-595" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RqcSnPFNKj7BQ7TesFbO-39" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;ARBITRAGE sur quel moyen sera engagé si plusieurs dispo&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-195" y="-670" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="RqcSnPFNKj7BQ7TesFbO-47" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Groupement&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-795" y="-745" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RqcSnPFNKj7BQ7TesFbO-48" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Compagnie&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-795" y="-965" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RqcSnPFNKj7BQ7TesFbO-49" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Centre Zonal&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-805" y="-580" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RqcSnPFNKj7BQ7TesFbO-50" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Centre&amp;nbsp; National&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-805" y="-385" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RqcSnPFNKj7BQ7TesFbO-54" value="Le CNO saisit directement les CGD ou GGD disposant du moyen" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-465" y="-400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RqcSnPFNKj7BQ7TesFbO-59" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;?&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-525" y="-390" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RqcSnPFNKj7BQ7TesFbO-62" value="Oui" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="-150" y="-710" as="geometry">
+            <mxPoint x="14" y="151" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RqcSnPFNKj7BQ7TesFbO-64" value="NB : Ce workflow s&#39;applique à chaque besoin composant une demande de besoins. Il est global et n&#39;expose pas les étapes de notification NEO aux responsables du moyen (ex : équipe lutte anti drone, maître-chien...)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-175" y="-1160" width="185" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="RqcSnPFNKj7BQ7TesFbO-65" value="&lt;h1&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 16px; background-color: rgb(51, 153, 255);&quot;&gt;&amp;nbsp;Grandes lignes du workflow d&#39;escalade pour la demande d&#39;un besoin spécial&amp;nbsp;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-820" y="-1150" width="620" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Uyvx8h7C8vzRLMzr1QNW-3" target="Uyvx8h7C8vzRLMzr1QNW-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-3" value="CGD" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="160" y="-1100" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Uyvx8h7C8vzRLMzr1QNW-7" target="Uyvx8h7C8vzRLMzr1QNW-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-7" value="Création d&#39;une demande sur SI OPS" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="460" y="-1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Uyvx8h7C8vzRLMzr1QNW-9" target="Uyvx8h7C8vzRLMzr1QNW-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Uyvx8h7C8vzRLMzr1QNW-9" target="Uyvx8h7C8vzRLMzr1QNW-36" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="111" y="-457" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ek8YgwILOzwHB5-foPTu-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Uyvx8h7C8vzRLMzr1QNW-9" target="Uyvx8h7C8vzRLMzr1QNW-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="111" y="-980" />
+              <mxPoint x="293" y="-980" />
+              <mxPoint x="293" y="-1045" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-9" value="GGD" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="96" y="-950" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Uyvx8h7C8vzRLMzr1QNW-10" target="Uyvx8h7C8vzRLMzr1QNW-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-17" value="&lt;div&gt;Demande&lt;/div&gt;&lt;div&gt;valide&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" parent="Uyvx8h7C8vzRLMzr1QNW-16" vertex="1" connectable="0">
+          <mxGeometry x="-0.3824" y="4" relative="1" as="geometry">
+            <mxPoint x="6" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Uyvx8h7C8vzRLMzr1QNW-10" target="Uyvx8h7C8vzRLMzr1QNW-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Uyvx8h7C8vzRLMzr1QNW-10" target="Uyvx8h7C8vzRLMzr1QNW-46" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="-910" />
+              <mxPoint x="170" y="-910" />
+              <mxPoint x="170" y="-677" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-10" value="Étudie la demande" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="265" y="-950" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Uyvx8h7C8vzRLMzr1QNW-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="-904" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-23" value="Pas de CGDs disponibles.&lt;br&gt;&lt;div&gt;Transmission au CZO.&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" parent="Uyvx8h7C8vzRLMzr1QNW-22" vertex="1" connectable="0">
+          <mxGeometry x="-0.8924" y="3" relative="1" as="geometry">
+            <mxPoint x="-220" y="288" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Uyvx8h7C8vzRLMzr1QNW-15" target="Uyvx8h7C8vzRLMzr1QNW-46" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="-737" />
+              <mxPoint x="265" y="-737" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-15" value="Recherche la liste des CGDs de son ressort, disposant du moyen et capable de répondre à la demande" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="265" y="-854" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-19" value="Demande rejetée" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="580" y="-944" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-21" value="Demande non valide" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="480" y="-944.0017647058825" as="geometry">
+            <mxPoint x="-8" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Uyvx8h7C8vzRLMzr1QNW-24" target="Uyvx8h7C8vzRLMzr1QNW-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-24" value="Notification des CGDs (ou PSIGs ?) sur leur Néo" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="350" y="-701" width="150" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.43;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Uyvx8h7C8vzRLMzr1QNW-15" target="Uyvx8h7C8vzRLMzr1QNW-24" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="-737" />
+              <mxPoint x="415" y="-737" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Uyvx8h7C8vzRLMzr1QNW-26" target="Uyvx8h7C8vzRLMzr1QNW-28" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="575" y="-634" />
+              <mxPoint x="463" y="-634" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-26" value="CGDs" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="520" y="-716" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Uyvx8h7C8vzRLMzr1QNW-28" target="Uyvx8h7C8vzRLMzr1QNW-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Uyvx8h7C8vzRLMzr1QNW-28" target="Uyvx8h7C8vzRLMzr1QNW-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Uyvx8h7C8vzRLMzr1QNW-28" target="Uyvx8h7C8vzRLMzr1QNW-46" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-28" value="Avis des CGDs" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="350" y="-574" width="150" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-33" value="Pas de CGDs disponibles.&lt;br&gt;&lt;div&gt;Pas de transmission au CZO.&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="425.004117647059" y="-834.0011764705882" as="geometry" />
+        </mxCell>
+        <mxCell id="ek8YgwILOzwHB5-foPTu-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Uyvx8h7C8vzRLMzr1QNW-35" target="ek8YgwILOzwHB5-foPTu-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-35" value="Demande terminée" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="350" y="-394" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Uyvx8h7C8vzRLMzr1QNW-36" target="Uyvx8h7C8vzRLMzr1QNW-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ek8YgwILOzwHB5-foPTu-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="Uyvx8h7C8vzRLMzr1QNW-36" target="ek8YgwILOzwHB5-foPTu-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-36" value="Arbitrage du moyen" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="350" y="-479" width="150" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-42" value="Au moins 1 CGD disponible" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="415" y="-524" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-45" value="Requiert un moyen non disponible localement" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="190" y="-1100" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-46" value="Escalade de la&lt;br&gt;demande" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="190" y="-700" width="150" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-48" value="Pas de CGDs disponibles.&lt;br&gt;Transmission au CZO." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="185" y="-774" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-49" value="Au moins 1 CGD disponible" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="380" y="-770" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-52" value="Pas de CGDs disponibles.&lt;br&gt;&lt;div&gt;Pas de transmission au CZO.&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="510.004117647059" y="-574.001176470588" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Uyvx8h7C8vzRLMzr1QNW-55" target="Uyvx8h7C8vzRLMzr1QNW-103" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-55" value="Demande escaladée&lt;br&gt;par un GGD" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="265" y="-330" width="150" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-94" value="Moyen dépendant du&lt;br&gt;CZO ou CNO" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="180" y="-900" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Uyvx8h7C8vzRLMzr1QNW-98" target="Uyvx8h7C8vzRLMzr1QNW-103" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Uyvx8h7C8vzRLMzr1QNW-98" target="Uyvx8h7C8vzRLMzr1QNW-122" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="111" y="263" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-98" value="CZO" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="96" y="-230" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Uyvx8h7C8vzRLMzr1QNW-103" target="Uyvx8h7C8vzRLMzr1QNW-107" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-100" value="&lt;div&gt;Demande&lt;/div&gt;&lt;div&gt;valide&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" parent="Uyvx8h7C8vzRLMzr1QNW-99" vertex="1" connectable="0">
+          <mxGeometry x="-0.3824" y="4" relative="1" as="geometry">
+            <mxPoint x="6" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Uyvx8h7C8vzRLMzr1QNW-103" target="Uyvx8h7C8vzRLMzr1QNW-108" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Uyvx8h7C8vzRLMzr1QNW-103" target="Uyvx8h7C8vzRLMzr1QNW-124" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="-190" />
+              <mxPoint x="170" y="-190" />
+              <mxPoint x="170" y="43" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-103" value="Étudie la demande" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="265" y="-230" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Uyvx8h7C8vzRLMzr1QNW-107" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="-184" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-105" value="Pas de CGDs disponibles.&lt;br&gt;&lt;div&gt;Transmission au CNO.&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" parent="Uyvx8h7C8vzRLMzr1QNW-104" vertex="1" connectable="0">
+          <mxGeometry x="-0.8924" y="3" relative="1" as="geometry">
+            <mxPoint x="-220" y="288" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Uyvx8h7C8vzRLMzr1QNW-107" target="Uyvx8h7C8vzRLMzr1QNW-124" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="-17" />
+              <mxPoint x="265" y="-17" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-107" value="Recherche la liste des CGDs de son ressort, disposant du moyen et capable de répondre à la demande" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="265" y="-134" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-108" value="Demande rejetée" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="580" y="-224" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-109" value="Demande non valide" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="480" y="-224.00176470588247" as="geometry">
+            <mxPoint x="-8" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Uyvx8h7C8vzRLMzr1QNW-111" target="Uyvx8h7C8vzRLMzr1QNW-118" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-111" value="Notification des CGDs sur leur Néo" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="350" y="19" width="150" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.43;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Uyvx8h7C8vzRLMzr1QNW-107" target="Uyvx8h7C8vzRLMzr1QNW-111" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="-17" />
+              <mxPoint x="415" y="-17" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Uyvx8h7C8vzRLMzr1QNW-114" target="Uyvx8h7C8vzRLMzr1QNW-118" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="575" y="86" />
+              <mxPoint x="463" y="86" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-114" value="CGDs" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="520" y="4" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Uyvx8h7C8vzRLMzr1QNW-118" target="Uyvx8h7C8vzRLMzr1QNW-108" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Uyvx8h7C8vzRLMzr1QNW-118" target="Uyvx8h7C8vzRLMzr1QNW-122" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Uyvx8h7C8vzRLMzr1QNW-118" target="Uyvx8h7C8vzRLMzr1QNW-124" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-118" value="Avis des CGDs" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="350" y="146" width="150" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-119" value="Pas de CGDs disponibles.&lt;br&gt;&lt;div&gt;Pas de transmission au CNO.&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="425.004117647059" y="-114.00117647058823" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-120" value="Demande terminée" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="350" y="326" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Uyvx8h7C8vzRLMzr1QNW-122" target="Uyvx8h7C8vzRLMzr1QNW-120" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-122" value="Arbitrage du moyen" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="350" y="241" width="150" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-123" value="Au moins 1 CGD disponible" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="415" y="196" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-124" value="Escalade de la&lt;br&gt;demande" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="190" y="20" width="150" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-125" value="Pas de CGDs disponibles.&lt;br&gt;Transmission au CNO." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="185" y="-54" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-126" value="Au moins 1 CGD disponible" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="380" y="-50" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-127" value="Pas de CGDs disponibles.&lt;br&gt;&lt;div&gt;Pas de transmission au CNO.&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="510.00411764705905" y="145.998823529412" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-128" value="Moyen dépendant du&lt;br&gt;CNO" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="180" y="-180" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Uyvx8h7C8vzRLMzr1QNW-131" target="Uyvx8h7C8vzRLMzr1QNW-139" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-131" value="Demande escaladée&lt;br&gt;par un CZO" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="295" y="420" width="150" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Uyvx8h7C8vzRLMzr1QNW-134" target="Uyvx8h7C8vzRLMzr1QNW-139" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Uyvx8h7C8vzRLMzr1QNW-134" target="Uyvx8h7C8vzRLMzr1QNW-158" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="141" y="1013" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-134" value="CNO" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="126" y="520" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Uyvx8h7C8vzRLMzr1QNW-139" target="Uyvx8h7C8vzRLMzr1QNW-143" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-136" value="&lt;div&gt;Demande&lt;/div&gt;&lt;div&gt;valide&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" parent="Uyvx8h7C8vzRLMzr1QNW-135" vertex="1" connectable="0">
+          <mxGeometry x="-0.3824" y="4" relative="1" as="geometry">
+            <mxPoint x="6" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Uyvx8h7C8vzRLMzr1QNW-139" target="Uyvx8h7C8vzRLMzr1QNW-144" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-139" value="Étudie la demande" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="295" y="520" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Uyvx8h7C8vzRLMzr1QNW-143" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="566" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-143" value="Recherche la liste des CGDs de son ressort, disposant du moyen et capable de répondre à la demande" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="295" y="616" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-144" value="Demande rejetée" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="610" y="526" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-145" value="Demande non valide" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="510" y="525.9982352941175" as="geometry">
+            <mxPoint x="-8" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Uyvx8h7C8vzRLMzr1QNW-147" target="Uyvx8h7C8vzRLMzr1QNW-154" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-147" value="Notification des CGDs sur leur Néo" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="380" y="769" width="150" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.43;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Uyvx8h7C8vzRLMzr1QNW-143" target="Uyvx8h7C8vzRLMzr1QNW-147" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="733" />
+              <mxPoint x="445" y="733" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Uyvx8h7C8vzRLMzr1QNW-150" target="Uyvx8h7C8vzRLMzr1QNW-154" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="605" y="836" />
+              <mxPoint x="493" y="836" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-150" value="CGDs" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="550" y="754" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Uyvx8h7C8vzRLMzr1QNW-154" target="Uyvx8h7C8vzRLMzr1QNW-144" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Uyvx8h7C8vzRLMzr1QNW-154" target="Uyvx8h7C8vzRLMzr1QNW-158" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-154" value="Avis des CGDs" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="380" y="896" width="150" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-155" value="Pas de CGDs disponibles." style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="455.004117647059" y="635.9988235294118" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-156" value="Demande terminée" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="380" y="1076" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Uyvx8h7C8vzRLMzr1QNW-158" target="Uyvx8h7C8vzRLMzr1QNW-156" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-158" value="Arbitrage du moyen" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="380" y="991" width="150" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-159" value="Au moins 1 CGD disponible" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="450" y="946" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-162" value="Au moins 1 CGD disponible" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="410" y="700" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Uyvx8h7C8vzRLMzr1QNW-163" value="Pas de CGDs disponibles." style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="540.004117647059" y="895.998823529412" as="geometry" />
+        </mxCell>
+        <mxCell id="ek8YgwILOzwHB5-foPTu-2" value="Requiert un moyen pour une CGD du même GGD" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="45" y="-1010" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ek8YgwILOzwHB5-foPTu-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ek8YgwILOzwHB5-foPTu-3" target="ek8YgwILOzwHB5-foPTu-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="730" y="-500" />
+              <mxPoint x="730" y="-422" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ek8YgwILOzwHB5-foPTu-3" value="&lt;div&gt;CGD(s) engagée&lt;br&gt;&lt;/div&gt;(s)" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="-535" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ek8YgwILOzwHB5-foPTu-4" value="MAJ de la demande et résultat de mission" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="-445" width="150" height="45" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
