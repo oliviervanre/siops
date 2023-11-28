@@ -172,7 +172,7 @@
         </taskproperties>
         <task id="38" name="Analyse" meeting="false" start="2023-12-01" duration="16" complete="0" expand="true">
             <task id="6" name="Récupérer référentiels des deux applications existante" color="#8cb6ce" meeting="false" start="2023-12-01" duration="6" complete="0" thirdDate="2023-10-30" thirdDate-constraint="0" expand="true"/>
-            <task id="3" name="Validation par le pôle projets" color="#8cb6ce" meeting="false" start="2023-12-11" duration="10" complete="0" thirdDate="2024-01-23" thirdDate-constraint="0" expand="true"/>
+            <task id="3" name="Validation par le Pôle Projets" color="#8cb6ce" meeting="false" start="2023-12-11" duration="10" complete="0" thirdDate="2024-01-23" thirdDate-constraint="0" expand="true"/>
             <task id="14" name="Validation du workflow et vision claire de l'IHM" color="#8cb6ce" meeting="false" start="2023-12-01" duration="16" complete="0" thirdDate="2024-01-26" thirdDate-constraint="0" expand="true"/>
         </task>
         <task id="39" name="Infrastructure" color="#8cb6ce" meeting="false" start="2023-12-04" duration="40" complete="0" thirdDate="2023-09-01" thirdDate-constraint="0" expand="true">
